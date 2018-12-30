@@ -1,0 +1,9 @@
+<a href="<?php echo URL ?>DeckBuilder/Classes/Druid/"><img src="<?php echo URL ?>public/images/cards/621.png" /></a>
+<a href="<?php echo URL ?>DeckBuilder/Classes/Hunter/"><img src="<?php echo URL ?>public/images/cards/484.png" /></a>
+<a href="<?php echo URL ?>DeckBuilder/Classes/Mage/"><img src="<?php echo URL ?>public/images/cards/320.png" /></a>
+<a href="<?php echo URL ?>DeckBuilder/Classes/Paladin/"><img src="<?php echo URL ?>public/images/cards/257.png" /></a>
+<a href="<?php echo URL ?>DeckBuilder/Classes/Priest/"><img src="<?php echo URL ?>public/images/cards/110.png" /></a>
+<a href="<?php echo URL ?>DeckBuilder/Classes/Rogue/"><img src="<?php echo URL ?>public/images/cards/2.png" /></a>
+<a href="<?php echo URL ?>DeckBuilder/Classes/Shaman/"><img src="<?php echo URL ?>public/images/cards/319.png" /></a>
+<a href="<?php echo URL ?>DeckBuilder/Classes/Warlock/"><img src="<?php echo URL ?>public/images/cards/618.png" /></a>
+<a href="<?php echo URL ?>DeckBuilder/Classes/Warrior/"><img src="<?php echo URL ?>public/images/cards/635.png" /></a>

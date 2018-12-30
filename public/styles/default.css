@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url('../images/background.jpg');
+    font-family: verdana;
+}
+#navContainer {
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#navbar {
+    display: inline-block;
+    background: linear-gradient(#C69D53,#D3B47B);
+    font-size: 32px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px #86672D;
+}
+#navbar li:first-child {
+    padding-left: 5px;
+}
+#navbar li {
+    list-style: none;
+    display: inline-block;
+    padding-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-right: 1px dotted #333;
+}
+#navbar li:last-child {
+    border: none;
+}
+#navbar a {
+    color: #000;
+    text-decoration: none;
+}
+#navbar a:hover {
+    text-decoration: underline;
+}
+#container {
+    width: 95%;
+    margin: 0px auto;
+}
+#content {
+    width: 75%;
+    padding: 10px;
+    background-image: url('../images/background2.jpg');
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0px 0px 15px #86672D;
+}
+#cardCollection {
+    display: inline-block;
+    width: 85%;
+    text-align: left;
+}
+.manaContainer {
+    background: linear-gradient(#222,#333);
+    width: 175px;
+}
+.mana {
+    background: linear-gradient(#D50,#F60);
+    width: 0px;
+    height: 35px;
+}
+.card {
+    width: 200px;
+    height: 250px;
+}
+#rightCol {
+    float: right;
+    background-color: #999;
+    padding: 10px;
+    width: 20%;
+    text-align: center;
+    box-shadow: 0px 0px 20px #000;
+    border-radius: 5px;
+}
+#pCards {
+    font-size: 18px;
+    background-color: #000;
+}
+#pCards table {
+    width: 100%;
+}
+#pCards tr {
+    width: 100%;
+}
+#pCards td {
+    padding: 5px;
+    background-color: #999;
+}
+#mCurve {
+
+}
+#mCurve table {
+    margin: auto auto;
+}
+.pCardsM {
+    width: 5%;
+}
+.pCardsN {
+    width: 90%;
+}
+.pCardsA {
+    width: 5%;
+}
+.totalList {
+    width: 95%;
+}
+.totalListA {
+    width: 5%;
+}
